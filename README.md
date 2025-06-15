@@ -2,6 +2,8 @@
 
 This is a standalone build of the GNU Radio vocoder module. It contains all necessary components to build and use the vocoder functionality without requiring the full GNU Radio suite.
 
+Please note this is not really maintained and won't be.  It's simply my fix for the fact that the homebrew version of gnuradio (3.10.12.0_1) doesn't have the codec2 or the freedv blocks installed.  
+
 ## Overview
 
 The gr-vocoder module provides various voice codecs for GNU Radio, including:
