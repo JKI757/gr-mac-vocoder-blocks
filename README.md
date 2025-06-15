@@ -2,7 +2,7 @@
 
 This is a standalone build of the GNU Radio vocoder module. It contains all necessary components to build and use the vocoder functionality without requiring the full GNU Radio suite.
 
-Please note this is not really maintained and won't be.  It's simply my fix for the fact that the homebrew version of gnuradio (3.10.12.0_1) doesn't have the codec2 or the freedv blocks installed.  
+Please note this is not really maintained and won't be.  It's simply my fix for the fact that the homebrew version of gnuradio (3.10.12.0_1) doesn't have the codec2 or the freedv blocks installed.  It's not a fork of gnuradio, but a copy of the gr-vocoder module setup to build on macos.  As such, the copyright is the same as the gnuradio project and the licesne is GPL as well as the gnuradio project uses.  
 
 ## Overview
 
